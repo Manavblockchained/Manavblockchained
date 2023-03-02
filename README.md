@@ -13,6 +13,7 @@ I am the co-founder of Blockchained India and Blocumen Studios. With years of ex
 ![](https://github-profile-trophy.vercel.app/?username=Manavblockchained&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🐦 Latest Tweet
+<a href="https://gtce.itsvg.in/"><img src="https://gtce.itsvg.in/api?username=@blockchainedind"/></a>
 [![](https://gtce.itsvg.in/api?username=https://twitter.com/blockchainedind)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
