@@ -23,31 +23,4 @@ I am the co-founder of Blockchained India and Blocumen Studios. With years of ex
 [![](https://visitcount.itsvg.in/api?id=Manavblockchained&icon=9&color=11)](https://visitcount.itsvg.in)
 
 
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="UTF-8">
-  <title>Automatic Live Tweet Update Demo</title>
-  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-</head>
-<body>
-  <h1>Automatic Live Tweet Update Demo</h1>
-  <blockquote class="twitter-tweet" data-conversation="none">
-    <a href="https://twitter.com/TwitterDev/status/1370494723217823234">See this tweet on Twitter</a>
-  </blockquote>
-  <script>
-    $(document).ready(function() {
-      var tweetId = '1370494723217823234'; // Replace with the ID of the tweet you want to embed
-      setInterval(function() {
-        $.getJSON('https://api.twitter.com/1.1/statuses/show.json?id=' + tweetId, function(data) {
-          var $tweet = $('<blockquote/>', { 'class': 'twitter-tweet', 'data-conversation': 'none' }).append($('<a/>', { 'href': 'https://twitter.com/' + data.user.screen_name + '/status/' + data.id_str }).text(data.text));
-          $('.twitter-tweet').replaceWith($tweet);
-          twttr.widgets.load();
-        });
-      }, 30000); // Update every 30 seconds
-    });
-  </script>
-</body>
-</html>
-
+https://gtce.itsvg.in/api?username=blockchainedind&theme=default
