@@ -19,4 +19,4 @@ I am the co-founder of Blockchained India and Blocumen Studios. With years of ex
 
 
 
-<a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=blockchainedind&theme=rose_pine&response=false&border=true&time=true&icon=default"/></a>
+
